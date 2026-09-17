@@ -1,4 +1,4 @@
-Name: SmartWork AI Assistant
+Name: ISPANI SmartWork AI Assistant
 Purpose:
 A workplace AI assistant that helps employees and managers save time by generating professional emails, converting meeting notes into actionable summaries, and creating structured daily or weekly task plans.
 
